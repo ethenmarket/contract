@@ -6,7 +6,7 @@ import "./SafeMath.sol";
 import "./ERC20.sol";
 
 // Ethen Decentralized Exchange Contract
-// https://ethen.io/
+// https://ethen.market/
 contract Ethen is Pausable {
     // Trade & order types
     uint public constant BUY = 1; // order type BID
